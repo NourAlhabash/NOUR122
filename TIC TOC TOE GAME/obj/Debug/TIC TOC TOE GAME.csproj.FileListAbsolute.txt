@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\TIC TOC TOE GAME\TIC TOC TOE GAME\bin\Debug\TIC TOC TOE GAME.exe.config
+C:\Users\hp\source\repos\TIC TOC TOE GAME\TIC TOC TOE GAME\bin\Debug\TIC TOC TOE GAME.exe
+C:\Users\hp\source\repos\TIC TOC TOE GAME\TIC TOC TOE GAME\bin\Debug\TIC TOC TOE GAME.pdb
+C:\Users\hp\source\repos\TIC TOC TOE GAME\TIC TOC TOE GAME\obj\Debug\TIC TOC TOE GAME.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TIC TOC TOE GAME\TIC TOC TOE GAME\obj\Debug\TIC_TOC_TOE_GAME.Form1.resources
+C:\Users\hp\source\repos\TIC TOC TOE GAME\TIC TOC TOE GAME\obj\Debug\TIC_TOC_TOE_GAME.Properties.Resources.resources
+C:\Users\hp\source\repos\TIC TOC TOE GAME\TIC TOC TOE GAME\obj\Debug\TIC TOC TOE GAME.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\TIC TOC TOE GAME\TIC TOC TOE GAME\obj\Debug\TIC TOC TOE GAME.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TIC TOC TOE GAME\TIC TOC TOE GAME\obj\Debug\TIC TOC TOE GAME.exe
+C:\Users\hp\source\repos\TIC TOC TOE GAME\TIC TOC TOE GAME\obj\Debug\TIC TOC TOE GAME.pdb
